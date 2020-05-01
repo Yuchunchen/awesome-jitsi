@@ -15,7 +15,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Jitsi - 安裝 
 
 * [陽明大學遠距會議系統安裝](https://github.com/Yuchunchen/BuildYourOwnConferenceSystem) - 陽明大學視訊系統(Github)
-* [新北市校長科技社群安裝文件]https://ezschool.tw/modules/tad_uploader/index.php?op=dlfile&cfsn=35&cat_sn=17&name=jitsi_meet_server_setup.pdf) - 分享於新北校長科技領導社群-同榮國小蔡明桂校長
+* [新北市校長科技社群安裝文件](https://ezschool.tw/modules/tad_uploader/index.php?op=dlfile&cfsn=35&cat_sn=17&name=jitsi_meet_server_setup.pdf) - 分享於新北校長科技領導社群-同榮國小蔡明桂校長
 
 
 ## Jitsi - 遠距會議系統
