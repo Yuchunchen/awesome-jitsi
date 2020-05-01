@@ -21,6 +21,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Jitsi - 遠距會議系統
 
 * [陽明大學遠距會議系統](https://web.ym.edu.tw/files/14-1133-43466,r1-1.php) - 陽明大學陳育群副教授開放原始碼
+* [法國疫情視訊會議系統](https://rendez-vous.renater.fr/home/) - 因應疫情法國開設線上討論室意見交流, 作者有[簡單分享客製Jitsi](https://community.jitsi.org/t/custom-welcome-page-like-on-https-rendez-vous-renater-fr-home/29804)
 
 
 ## Jitsi - 遠距教學 
